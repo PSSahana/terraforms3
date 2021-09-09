@@ -1,4 +1,4 @@
-
+#making s3 bucket 
 
 provider "aws" {
   region = var.aws_region
